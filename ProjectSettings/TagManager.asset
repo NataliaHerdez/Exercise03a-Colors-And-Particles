@@ -6,11 +6,12 @@ TagManager:
   tags:
   - death
   - block
+  - ball
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ball
   - Water
   - UI
   - 
